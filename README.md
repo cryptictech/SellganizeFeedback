@@ -1,2 +1,2 @@
-# StoreHubIMSFeedback
-Submit feedback requests and bug reports about StoreHubIMS
+# SellganizeFeedback
+Submit feedback requests and bug reports about Sellganize.
